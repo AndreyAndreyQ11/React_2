@@ -1,0 +1,24 @@
+[
+    {
+        "id": "id-1",
+        "url": "https://klike.net/uploads/posts/2019-07/1562481027_2.jpg",
+        "title": "Супер-пупер пони",
+        "price": 500,
+        "author": {
+            "name": "Андрей@info.com",
+            "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9"
+        },
+        "quantity": 10
+    },
+    {
+        "id": "id-2",
+        "url": "https://mobimg.b-cdn.net/v3/fetch/49/49ab8a5e7a9ef14d93f47c52a7f778c0.jpeg",
+        "title": "Супер-пупер белая пони",
+        "price": 1500,
+        "author": {
+            "name": "Андрей@info.com",
+            "url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9"
+        },
+        "quantity": 10
+    }
+]
