@@ -21,8 +21,19 @@ export default function App() {
                 name={data[1].author.name}
                 profileUrl={data[1].author.url}
             /> */}
-
-            <Painting data={data} />
+            {/* {data.map(data => {
+                <Painting
+                    key={data.key}
+                    url={data.url}
+                    title={data.title}
+                    price={data.price}
+                    tag={data.author.tag}
+                    name={data.author.name}
+                    profileUrl={data.author.url}
+                />
+            })} */}
+            <Painting
+                data={data} />
         </>
     );
 };
