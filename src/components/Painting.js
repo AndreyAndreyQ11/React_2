@@ -42,3 +42,4 @@ const Painting = function ({ id, url = imgError, title, name, profileUrl, price,
 // };
 
 export default Painting;
+
